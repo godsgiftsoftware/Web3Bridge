@@ -1,0 +1,56 @@
+body {
+  background-color: #bdc3c7;
+}
+
+h1{
+  color: #9b59b6;
+}
+
+h1:hover{
+  color: #1a1ae6;
+}
+
+h2{
+  color: orange;
+}
+
+li{
+  color: #1a1ae6;
+}
+
+p{
+  background-color: yellow;
+}
+
+input{
+  border: 3px solid red;
+}
+
+.hello{
+  background-color: white;
+}
+
+#special{
+  border: 2px solid #1a1ae6;
+}
+
+div p{
+  font-size: 25px;
+}
+
+input[type=checkbox] {
+  margin-left: 50px;
+}
+
+label{
+  text-transform: uppercase;
+}
+
+#special::first-letter{
+  color: green;
+  font-size: 100px;
+}
+
+a:visited{
+  color: gray;
+}
